@@ -1,0 +1,228 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#bag {
+    background-image: url(media/back.jpg);
+    background-size: cover;
+    height: 9vh;
+
+}
+
+#bag-2 {
+    background-image: url(media/back.jpg);
+    background-size: cover;
+    height: 58vh;
+
+}
+
+#header {
+    background-color: rgba(0, 0, 0, 0.7);
+
+
+}
+
+#banner .home {
+    background-color: rgba(0, 0, 0, 0.6);
+
+    text-align: center;
+    color: #D0D3D4;
+
+}
+
+#banner .home h3 {
+
+    font-size: 45px;
+    font-weight: 100;
+    font-family: sans-serif;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    margin-top: 155px;
+    margin-bottom: 100px;
+}
+
+#banner .home h1 {
+    font-size: 70px;
+    color: white;
+    font-family: monospace;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 190px;
+}
+
+#header #logo {
+    width: 180px;
+
+}
+
+#header li a {
+    color: rgb(244, 249, 249);
+    font-size: 22px;
+    font-weight: bold;
+    padding-left: 80px;
+}
+
+#header li a:hover {
+    color: rgb(241, 171, 5);
+
+}
+
+#logo img {
+    width: 250px;
+}
+
+#footer {
+
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#footer #description {
+    width: 80px;
+    padding-top: 20px;
+    margin-bottom: 12px;
+}
+
+#footer #foot-dec {
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Splash', cursive;
+    ;
+}
+
+#footer p {
+    font-family: 'Finlandica', sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+#footer .media {
+    width: 60px;
+}
+
+#footer #company {
+
+    font-family: 'Finlandica', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+#footer #footer-query {
+    font-family: 'Finlandica', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+#main #labels #categories {
+
+    background-image: url(media/banner.jpg);
+    background-size: cover;
+    height: 150px;
+
+
+}
+
+#main #labels h3 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgb(219, 218, 218);
+
+}
+
+#main #labels h3:hover {
+    color: rgb(241, 171, 5);
+}
+
+#main #labels {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+#main #labels h1 {
+    padding-bottom: 20px;
+    color: rgb(134, 79, 2);
+    font-weight: bolder;
+}
+
+#banner #border1 {
+    width: 100%;
+}
+
+#footer #border2 {
+    width: 100%;
+}
+
+#main #labels #categories11 {
+    background-image: url(media/11.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories12 {
+    background-image: url(media/dining.jpg);
+    background-size: contain;
+    height: 350px;
+}
+
+#main #labels #categories13 {
+    background-image: url(media/chandelier.jpg);
+    background-size: contain;
+    height: 350px;
+}
+
+#main #labels #categories14 {
+    background-image: url(media/14.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories21 {
+    background-image: url(media/21.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories22 {
+    background-image: url(media/22.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories23 {
+    background-image: url(media/23.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories24 {
+    background-image: url(media/24.jpg);
+    background-size: cover;
+    height: 350px;
+}
+#main #labels #categories31 {
+    background-image: url(media/31.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories32 {
+    background-image: url(media/32.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories33 {
+    background-image: url(media/33.jpg);
+    background-size: cover;
+    height: 350px;
+}
+
+#main #labels #categories34 {
+    background-image: url(media/34.jpg);
+    background-size: cover;
+    height: 350px;
+}

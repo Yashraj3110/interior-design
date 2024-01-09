@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#bag{
+    background-image: url(media/back.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+ }
+ #bag-2{
+    background-image: url(media/back.jpg);
+    background-size: cover;
+    height: 58vh;
+    
+ }
+#header {
+    background-color: rgba(0,0 , 0, 0.7);
+  
+    
+}
+#banner .home
+    {
+        background-color: rgba(0,0 , 0, 0.6);
+        
+        text-align: center;
+        color: #D0D3D4;
+        
+      }
+
+#banner .home h3{
+    
+    font-size: 45px;
+  font-weight: 100;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  word-spacing: 5px;
+  margin-top: 155px;
+  margin-bottom: 100px;
+}
+#banner .home h1{
+    font-size: 70px;
+  color: white;
+  font-family: monospace;
+  font-weight:700;
+  margin-top: 100px;
+  margin-bottom: 190px;
+}
+
+#header #logo{
+    width: 180px;
+
+}
+#header li a {
+    color: rgb(244, 249, 249);
+    font-size: 22px;
+    font-weight: bold;
+    padding-left: 80px;
+}
+#header li a:hover{
+    color: rgb(241, 171, 5);
+    
+}
+
+#logo img{
+    width: 250px;
+}
+#footer{
+    
+    background-color: rgba(0,0 , 0, 0.7);
+}
+#footer #description{
+    width: 80px;
+    padding-top: 20px;
+    margin-bottom: 12px;
+}
+#footer #foot-dec{
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Splash', cursive; ;
+}
+
+#footer p{
+    font-family: 'Finlandica', sans-serif;
+    font-size: 14px;
+    color: white;
+}
+#footer .media{
+    width: 60px;
+}
+#footer #company{
+
+    font-family: 'Finlandica', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+#footer #footer-query{
+    font-family: 'Finlandica', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+ 
+ p span{
+
+    font-size: 17px;
+    color: rgb(28, 85, 87);
+    font-weight: bolder;
+}
+ p{
+
+    font-size: 15px;
+    color: rgb(28, 85, 87);
+    font-weight: 600;
+}
+ #main-png{
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    left: 30%;
+}
+#service .card{
+    
+    border: none;
+}
+
+ #service img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    margin-left: 30px;
+    transition-property: width;
+    transition-duration: 1s;
+}
+#service img:hover{
+    width: 230px;
+    
+}
+#service .card-title{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(62, 64, 65);
+    font-weight: bolder;
+}
+ #service .card-text{
+
+    font-size: 15px;
+    color: rgb(28, 85, 87);
+    font-weight: 600;
+}
+#banner #border1{
+    width: 100%;
+}
+#footer #border2{
+    width: 100%;
+}
+#service .btn{
+    position:relative;
+    left: 72px;
+}
+#testi{
+    margin-top: 100px;
+}
+#main h1{
+    
+    background-color: rgba(0,0 , 0, 0.2);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
